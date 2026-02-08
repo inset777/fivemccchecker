@@ -21,6 +21,9 @@ This tool is intended for administrative auditing and forensic analysis only.
 ```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 # Press "Yes to All" when prompted
+```
 
 ###4. Run the Script
+```powershell
 .\insetchecker.ps1
+```
