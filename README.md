@@ -12,7 +12,7 @@ I updated my old version from 2024 and published it
 ### 1. Place the Script
 - Navigate to your main Windows drive (usually `C:\`).  
 - Go to `C:\Users\<Administrator>` (replace `<Administrator>` with your admin account folder).  
-- Place the `insetchecker.ps1` script in this folder.
+- Place the `ShadowTrace.ps1` script in this folder.
 
 ### 2. Run PowerShell as Administrator
 - Right-click **PowerShell** → **Run as Administrator**.
