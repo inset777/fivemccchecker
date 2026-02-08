@@ -11,4 +11,8 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
  .\insetchecker.ps1
 
+to review the report you can go to the same path you placed the .ps1 file and navigate to insetchecker folder it auto created
+ex. INSETCHECKER_bd4b49c0-9de4-49cc-bafa-bc4b051503e6
+
 This product is under licencse of inset and all rights are reserved to him only.
+
