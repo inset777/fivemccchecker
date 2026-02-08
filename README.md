@@ -2,7 +2,7 @@
 
 **ShadowTrace** is a safe, evidence-based forensic correlation tool for Windows systems.  
 It reconstructs execution history, inventories files, and identifies suspicious patterns in a transparent, non-invasive, and legal manner.  
-This tool is intended for administrative auditing and forensic analysis only.
+This tool is intended for administrative auditing and forensic analysis only.Designed for administrative auditing, security research, and fair-play enforcement, providing insights for review and investigation only.
 I updated my old version from 2024 and published it
 
 ---
