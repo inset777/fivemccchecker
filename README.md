@@ -70,3 +70,9 @@ All rights reserved.
 
 ## Quick Copy Commands
 - Copy and paste the following directly into PowerShell:
+```powershell
+# Set execution policy temporarily
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# Run INSETCHECKER
+.\insetchecker.ps1
+```
