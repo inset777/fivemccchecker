@@ -31,7 +31,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 ### 5. View the Automated Reports
 - The script automatically creates an output folder in the same location, for example:  
-  `INSETCHECKER_bd4b49c0-9de4-49cc-bafa-bc4b051503e6`
+  `Inset-ShadowTrace_635099da-608e-4f80-a286-d879d938045a`
 - Inside this folder, you will find all generated reports:
   - `forensic_log.txt`
   - `forensic_findings.txt`
