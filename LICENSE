@@ -1,24 +1,40 @@
 <#
-Insetchecker – License Notice
+INSETCHECKER – License Notice
 
 Copyright (c) 2026 [Inset]. All rights reserved.
 
-This software is provided for **personal, educational, or authorized internal use only**.
+This software is provided for **authorized, legal, and ethical use only**.
 
-Restrictions:
-1. You MAY NOT sell, sublicense, or distribute this software in any form.
-2. You MAY NOT modify and claim ownership or authorship.
-3. You MAY NOT reverse-engineer, decompile, or attempt to bypass restrictions.
-4. You MAY NOT use this software for unauthorized or malicious purposes.
+----------------------------------------------------------------------
+1. RESTRICTIONS
+----------------------------------------------------------------------
 
-Permitted Use:
-- Running this tool locally on your system for legitimate analysis and educational purposes.
-- Sharing findings in reports **without including the script itself**.
+You MAY NOT:
+- Sell, sublicense, or distribute this software in any form.
+- Modify, claim authorship, or redistribute derivative versions of the software.
+- Reverse-engineer, decompile, or bypass any built-in restrictions.
+- Use this software for unauthorized, illegal, or malicious activities.
 
-DISCLAIMER:
-- This software is provided "as-is" without any warranties.
-- The author is not liable for any misuse or damages resulting from its use.
+----------------------------------------------------------------------
+2. PERMITTED USE
+----------------------------------------------------------------------
 
-By using this software, you agree to comply with the above restrictions.
+You MAY:
+- Run this tool locally on your own system for legitimate analysis, educational, or auditing purposes.
+- Generate reports or share findings derived from the software **without distributing the script itself**.
+- Use the software to support internal security, forensic, or investigative processes in a legal context.
 
+----------------------------------------------------------------------
+3. DISCLAIMER
+----------------------------------------------------------------------
+
+- This software is provided **“as-is”** without any warranties of any kind.
+- The author and copyright holder are **not responsible for any direct or indirect damages**, loss of data, or misuse resulting from its use.
+- Users assume all responsibility for compliance with local laws and regulations while using this tool.
+
+----------------------------------------------------------------------
+4. ACCEPTANCE
+----------------------------------------------------------------------
+
+By downloading, executing, or interacting with this software, you acknowledge and agree to comply with all the restrictions and terms outlined above. Unauthorized use is strictly prohibited.
 #>
